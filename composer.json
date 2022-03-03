@@ -1,5 +1,5 @@
 {
-  "name": "marchccc/sdk-api-parcel-processing",
+  "name": "march/gls",
   "description": "GLS Web API for Parcel Processing SDK",
   "license": "MIT",
   "keywords": [
@@ -48,5 +48,6 @@
       "GlsGroup\\Sdk\\ParcelProcessing\\Test\\": "test/"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
